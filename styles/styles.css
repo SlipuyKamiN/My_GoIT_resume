@@ -142,17 +142,22 @@ body {
 }
 .experience-period {
   font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.25;
   color: #a8a8a8;
   margin: 0 0 10px 0;
 }
+
+.experience-dates {
+  font-weight: 400;
+}
+
 .line {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
+  font-size: 15px;
+  line-height: 1.25;
   color: #000000;
 }
 .work-list-style {
